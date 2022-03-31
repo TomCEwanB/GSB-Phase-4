@@ -1,0 +1,53 @@
+h2 {
+  font-family: 'arial';
+  text-align: center;
+}
+
+body {
+  font-size: 20px;
+  font-family: 'arial';
+  border-color: #FFFFFF;
+}
+
+p{
+	font-size:20px;
+}
+
+header {
+  background-color:#00d8a4;
+}
+
+.presentation {
+  font-family: 'arial';
+  font-size: 13px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 130px;
+  margin-right: 130px;
+  border-width:2px;
+  border-style:solid;
+  border-color:black;
+ }
+
+.bouton_A {
+  margin-top: -10px;
+}
+
+.bouton_Ab{
+	margin-top: -10px;
+}
+.bouton_ACx{
+	margin-top: -10px;
+}
+	
+.form1 {
+  text-align: center;
+}
+
+.para {
+  margin-top: 0px;
+}
+
+.labek{
+	text-align: center;
+}
